@@ -36,7 +36,7 @@ iot-dashboard-template/
 
 1. Clone the Repository
 ```bash
-git clone [https://github.com/kcnsoftware/iot-dashboard-template.git](https://github.com/kcnsoftware/iot-dashboard-template.git)
+git clone https://github.com/kcnsoftware/iot-dashboard-template.git
 cd iot-dashboard-template
 ```
 2. Install Flask
