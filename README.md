@@ -1,5 +1,7 @@
 # 🚀 Modern IoT Dashboard Template
 
+![Dashboard Preview](dashboard-preview.png)
+
 A clean, minimalist, and high-performance web dashboard designed for real-time monitoring of embedded systems (ESP32, Arduino, Raspberry Pi, etc.). 
 
 This project demonstrates a full-stack approach to IoT, combining a **Python (Flask)** backend with a dynamic **JavaScript (Chart.js)** frontend to visualize sensor data seamlessly.
